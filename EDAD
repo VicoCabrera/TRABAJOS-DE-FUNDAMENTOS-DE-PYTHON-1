@@ -1,0 +1,5 @@
+edad=input("ingrese edad:")
+peso=input("ingrse peso:")
+print("la edad es:", edad")
+print("el peso es:", peso)
+
